@@ -1,0 +1,11 @@
+:root {
+  --primary-bg: #ffffff; /* Background color for the calculator */
+  --secondary-bg: #f0f0f0; /* Secondary background color */
+  --text-color: #333333; /* Text color */
+  --button-bg: #e0e0e0; /* Default button background */
+  --button-hover: #d0d0d0; /* Button hover background */
+  --operator-bg: #ff9800; /* Operator button background */
+  --operator-hover: #fb8c00; /* Operator button hover background */
+  --function-bg: #444546; /* Function button background */
+  --function-hover: #1976d2; /* Function button hover background */
+}
